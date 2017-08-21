@@ -1,0 +1,14 @@
+{
+    "name": "febmark/markdown",
+    "description": "this is a test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "febmark",
+            "email": "febmark@qq.com"
+        }
+    ],
+    "require": {
+	"michelf/php-markdown":"1.7.0"	
+    }
+}
